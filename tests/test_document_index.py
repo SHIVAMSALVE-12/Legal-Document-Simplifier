@@ -10,7 +10,7 @@ from modules.vector_store import (
 )
 
 text = load_document(
-    r"C:\Projects\legal-document-simplifier\data\uploads\sample_legal_contract.pdf"
+    r"sample_legal_contract.pdf"
 )
 
 chunks = create_chunks(
