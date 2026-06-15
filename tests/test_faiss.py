@@ -12,7 +12,7 @@ from modules.vector_store import (
 
 # Load document
 text = load_document(
-    r"C:\Users\SHIVAM\Downloads\Project_Guide_Allotment_VLSI.docx"
+    r"DOCX FILE"
 )
 
 # Create chunks
