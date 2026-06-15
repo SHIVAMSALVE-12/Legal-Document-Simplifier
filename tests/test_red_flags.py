@@ -6,7 +6,7 @@ from modules.red_flag_engine import (
 )
 
 text = load_document(
-    r"C:\Projects\legal-document-simplifier\data\uploads\sample_legal_contract.pdf"
+    r"data\uploads\sample_legal_contract.pdf"
 )
 
 flags = detect_red_flags(text)
