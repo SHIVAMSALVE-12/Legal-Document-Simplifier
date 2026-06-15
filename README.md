@@ -234,6 +234,14 @@ http://localhost:8501
 
 ---
 
+## 🏗️ System Architecture
+
+<img width="1536" height="1024" alt="SYSTEM ARCHITECTURE" src="https://github.com/user-attachments/assets/98bdad32-9578-4ef3-b12e-bff72b91a752" />
+
+
+
+---
+
 ## 📸 Screenshots
 Home Page
 
