@@ -7,7 +7,7 @@ from modules.legal_report import (
 )
 
 text = load_document(
-    r"C:\Projects\legal-document-simplifier\data\uploads\sample_legal_contract.pdf"
+    r"sample_legal_contract.pdf"
 )
 
 report = generate_legal_report(
