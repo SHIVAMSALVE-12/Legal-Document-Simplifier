@@ -9,7 +9,7 @@ from modules.clause_explainer import (
 )
 
 text = load_document(
-    r"C:\Projects\legal-document-simplifier\data\uploads\sample_legal_contract.pdf"
+    r"UPLOD YOUR DOCUMENT PDF"
 )
 
 flags = detect_red_flags(text)
