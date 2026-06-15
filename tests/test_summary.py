@@ -5,7 +5,7 @@ from modules.summarizer import (
 )
 
 text = load_document(
-    r"C:\Projects\legal-document-simplifier\data\uploads\sample_legal_contract.pdf"
+    r"data\uploads\sample_legal_contract.pdf"
 )
 
 summary = summarize_document(
