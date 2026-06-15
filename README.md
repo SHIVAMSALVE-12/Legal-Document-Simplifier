@@ -1,4 +1,4 @@
-[legal__report.pdf](https://github.com/user-attachments/files/28967089/legal__report.pdf)# ⚖️ Legal Document Simplifier
+# ⚖️ Legal Document Simplifier
 
 An AI-powered Legal Document Analysis System designed specifically for Indian legal documents. The platform enables users to upload contracts, agreements, notices, terms & conditions, legal documents, PDFs, DOCX files, and images, then automatically generates plain-language summaries, identifies risky clauses, performs legal analysis using Indian laws, and provides downloadable professional reports.
 
