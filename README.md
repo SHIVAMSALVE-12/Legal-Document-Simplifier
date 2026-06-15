@@ -193,7 +193,7 @@ legal-document-simplifier/
 
 ### Clone Repository
 
-git clone https://github.com/yourusername/legal-document-simplifier.git
+git clone https://github.com/SHIVAMSALVE-12/Legal-Document-Simplifier
 
 cd legal-document-simplifier
 
