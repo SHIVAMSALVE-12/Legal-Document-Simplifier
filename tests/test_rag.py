@@ -10,7 +10,7 @@ from modules.rag import ask_question
 
 
 text = load_document(
-    r"C:\Projects\legal-document-simplifier\data\uploads\sample_legal_contract.pdf"
+    r"\uploads\sample_legal_contract.pdf"
 )
 
 chunks = create_chunks(text)
