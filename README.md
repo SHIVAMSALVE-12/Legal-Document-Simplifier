@@ -1,4 +1,4 @@
-# ⚖️ Legal Document Simplifier
+[legal__report.pdf](https://github.com/user-attachments/files/28967089/legal__report.pdf)# ⚖️ Legal Document Simplifier
 
 An AI-powered Legal Document Analysis System designed specifically for Indian legal documents. The platform enables users to upload contracts, agreements, notices, terms & conditions, legal documents, PDFs, DOCX files, and images, then automatically generates plain-language summaries, identifies risky clauses, performs legal analysis using Indian laws, and provides downloadable professional reports.
 
@@ -229,6 +229,31 @@ models/qwen2.5-7b.gguf
 
 streamlit run app.py
 
+Application will launch at:
+http://localhost:8501
+
+---
+
+## 📸 Screenshots
+Home Page
+
+<img width="1884" height="827" alt="Screenshot 2026-06-15 224749" src="https://github.com/user-attachments/assets/c04326c5-a0ac-4840-b031-e9a4cbcc5019" />
+
+
+Upload Document
+
+<img width="1456" height="663" alt="document upload" src="https://github.com/user-attachments/assets/0783b613-67f5-4c44-a641-d50e16f4d7f3" />
+
+
+Risk Analysis
+
+<img width="1461" height="842" alt="risk analysis" src="https://github.com/user-attachments/assets/f1686662-cff3-4e1a-a04d-c2ddb0066818" />
+
+
+Legal Analysis
+
+<img width="1476" height="793" alt="Screenshot 2026-06-15 225356" src="https://github.com/user-attachments/assets/bc040409-383e-4864-8468-45b05ef40413" />
+
 ---
 
 ## 📈 Workflow
@@ -293,4 +318,10 @@ PDF Export
 Shivam Salve
 
 Built using Qwen2.5, FAISS, Streamlit, LangChain, and Indian Law RAG.
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License.
 
