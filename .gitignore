@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environment
+nameenv/
+venv/
+env/
+
+# VS Code
+.vscode/
+
+# Environment
+.env
+
+# Models
+models/*.gguf
+
+# Vector Databases
+vector_db/*.index
+vector_db/*.pkl
+
+# Uploads
+uploads/*
+
+# Reports
+reports/*
+
+# Streamlit Cache
+.streamlit/
+
+# Windows
+Thumbs.db

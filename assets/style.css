@@ -1,0 +1,58 @@
+.main-title {
+text-align:center;
+font-size:55px;
+font-weight:800;
+color:#D4AF37;
+margin-top:20px;
+}
+
+.sub-title {
+text-align:center;
+font-size:20px;
+color:#D1D5DB;
+margin-bottom:30px;
+}
+
+.stApp {
+background:
+linear-gradient(
+135deg,
+#0f172a,
+#111827,
+#1e293b
+);
+}
+
+.glass-card{
+background:rgba(255,255,255,0.05);
+backdrop-filter:blur(15px);
+border-radius:20px;
+padding:20px;
+border:1px solid rgba(255,255,255,0.1);
+margin-bottom:20px;
+}
+
+.section-title{
+color:#D4AF37;
+font-size:28px;
+font-weight:700;
+}
+
+.metric-box{
+background:rgba(255,255,255,0.05);
+padding:15px;
+border-radius:15px;
+text-align:center;
+}
+
+.flag-high{
+border-left:5px solid red;
+}
+
+.flag-medium{
+border-left:5px solid orange;
+}
+
+.flag-low{
+border-left:5px solid green;
+}
