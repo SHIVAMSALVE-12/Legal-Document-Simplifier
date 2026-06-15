@@ -3,7 +3,7 @@ from modules.chunker import create_chunks
 from modules.embeddings import generate_embeddings
 
 text = load_document(
-    r"C:\Users\SHIVAM\Downloads\7 SEM YCCE.pdf"
+    r" UPLOAD PATH pdf"
 
 )
 
